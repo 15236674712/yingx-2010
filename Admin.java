@@ -18,3 +18,8 @@ public class Admin {
   private String level;
 
 }
+
+
+public static void main(String[] args) {
+    System.out.println("---");    
+}
